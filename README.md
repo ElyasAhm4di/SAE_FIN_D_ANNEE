@@ -1,6 +1,6 @@
 # Projet de Fin d'Année - Gestion de Transport
 
-[![CI](https://github.com/ElyasAhma4di/Projet-de-Fin-d-ann-e/actions/workflows/symfony.yml/badge.svg)](https://github.com/ElyasAhm4di/Projet-de-Fin-d-ann-e/actions)
+[![CI](https://github.com/ElyasAhm4di/Projet-de-Fin-d-ann-e/actions/workflows/symfony.yml/badge.svg)](https://github.com/ElyasAhm4di/Projet-de-Fin-d-ann-e/actions)
 
 Ceci est le dépôt de notre projet de fin d'année. L'objectif était de développer un site web de réseau de transport, avec une interface publique pour les usagers et un back-office pour l'administration.
 
@@ -30,4 +30,4 @@ L'architecture est structurée simplement : les vues principales sont à la raci
 
 1. Clonez le dépôt dans le répertoire web de votre serveur local (htdocs, www, etc.) :
    ```bash
-   git clone [https://github.com/VOTRE_NOM/Projet-de-Fin-d-ann-e.git](https://github.com/VOTRE_NOM/Projet-de-Fin-d-ann-e.git)
+   git clone [https://github.com/ElyasAhm4di/Projet-de-Fin-d-ann-e.git](https://github.com/ElyasAhm4di/Projet-de-Fin-d-ann-e.git)
