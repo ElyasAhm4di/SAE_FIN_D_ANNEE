@@ -1,6 +1,6 @@
 # Projet de Fin d'Année - Gestion de Transport
 
-[![CI](https://github.com/ElyasAhma4di/Projet-de-Fin-d-ann-e/actions/workflows/symfony.yml/badge.svg)](https://github.com/VOTRE_NOM/Projet-de-Fin-d-ann-e/actions)
+[![CI](https://github.com/ElyasAhma4di/Projet-de-Fin-d-ann-e/actions/workflows/symfony.yml/badge.svg)](https://github.com/ElyasAhm4di/Projet-de-Fin-d-ann-e/actions)
 
 Ceci est le dépôt de notre projet de fin d'année. L'objectif était de développer un site web de réseau de transport, avec une interface publique pour les usagers et un back-office pour l'administration.
 
